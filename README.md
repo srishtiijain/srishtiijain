@@ -1,7 +1,7 @@
 # Hey 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/srishtiijain/srishtiijain/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/srishtiijain/srishtijainn/blob/master/pictures/208593.gif">
 </div>
 
 </br>
@@ -11,16 +11,16 @@
 
 # About ME 💬 :
 
-### - I'm an 18 year old from India.
+### - I'm 18 years old from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/srishtiijain/srishtiijain/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/srishtiijain/srishtiijain//blob/master/pictures/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
 
 ### - Hobbies : 
-- ✨ Reading Novels
-- ✨ Badminton
+- ✨ Reading Light Novels
+- ✨ Badminton 
 
 </br>
 </br>
@@ -34,12 +34,8 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/srishtiijain/srishtiijain/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-
-</br>
-<img src="https://github.com/srishtiijain/srishtiijain/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/srishtiijain/srishtiijain/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-
+<img src="https://github.com/srishtiijain/srishtiijain/blob/master/pictures/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/srishtiijain/srishtiijain/blob/master/pictures/icons/ai.png" alt="AI" width="90" hight="50">
 </p>
 </br>
 </br>
@@ -53,22 +49,21 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/srishtiijain/srishtiijain/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/srishtiijain/srishtiijain/blob/master/pictures/93195.gif">
 
 
-If you want to reach out to me about anything, hmu
+if you want to reach out to me about anything, hit me up
 
-<a href="mailto:srishti.jain.7089@starnolds.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/srishtiijain/srishtiijain/blob/master/assets/icons/gmail.png" />
+<a href="mailto:srishti.jain.7089@starnoldsvijaynagar.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/srishtiijain/srishtiijain/blob/master/pictures/icons/gmail.png" />
 </a>
-
 </br>
 </br>
+</br>
 </a>
-<a href="https://www.reddit.com/user/srihahaha">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/srishtiijain/srishtiijain/blob/master/assets/icons/reddit.png" />
+<a href="https://www.reddit.com/user/srihahaha>
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/srishtiijain/srishtiijain/blob/master/pictures/icons/reddit.png" />
 </a>
-
  </p>
  
 
