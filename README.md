@@ -1,7 +1,8 @@
 # Hey. This is Srishti
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/.gif">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 </div>
 
 </br>
@@ -13,7 +14,7 @@
 
 ### - I'm an 18 year old from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
