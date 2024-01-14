@@ -47,8 +47,7 @@
 
 </p>
 </br>
-</br>
-</br>
+
 
 
 
@@ -70,8 +69,7 @@ If you want to reach out to me about anything,hit me up.
   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 
 </br>
-</br>
-</br>
+
 </a>
 <a href="https://www.reddit.com/user/srihahaha">
   <img align="left" alt=" Reddit" width="130" hight="100" src=https://icons8.com/icon/kshUdu5u4FCX/reddit.png"
@@ -80,18 +78,7 @@ If you want to reach out to me about anything,hit me up.
  </p>
  
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
-
-
-  </a>
-  </p>
 
 *************
 
