@@ -2,11 +2,11 @@
 <div align="center">
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 <div align="center">
-   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=261D1D&background=39FFF600&random=false&width=435&lines=Hey+!+I+am+Srishti;Currently+a+Student" alt="Headline" />
+   <div align=right>
+        <img src=https://readme-typing-svg.herokuapp.com?font=Petemoss&size=80&pause=1000&color=712963&random=false&width=500&lines=Hey+!+I+am+Srishti+ .alt="Headline" />
     </div>
    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
