@@ -3,7 +3,7 @@
 <img align="centre" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 <div align="center">
    <div align=right>
-        <img src=https://readme-typing-svg.herokuapp.com?font=Petemoss&size=80&pause=1000&color=712963&random=false&width=500&lines=Hey+!+I+am+Srishti+ .alt="Headline" />
+        <img src=https://readme-typing-svg.herokuapp.com?font=Petemoss&size=50&pause=1000&color=712963&random=false&width=500&lines=Hey+!+I+am+Srishti+ .alt="Headline" />
     </div>
    <div align=center>
         
