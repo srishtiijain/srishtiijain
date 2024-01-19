@@ -75,9 +75,6 @@ If you want to reach out to me about anything,hit me up.
 </br>
 
 </a>
-<a href="https://www.reddit.com/user/srihahaha">
-  <img align="left" alt=" Reddit" width="130" hight="100" src=https://icons8.com/icon/kshUdu5u4FCX/reddit.png"
-</a>
 
  </p>
  
