@@ -2,27 +2,6 @@
 
   <a href="https://1999azzar.github.io/1999AZZAR/">
   
-</div>
-
-
-</br>
-</br>
-</br>
-
-
-
-</br>
-</br>
-</br>
-
-
-
-
-</br>
-
-</p>
-</br>
-
 
 
 
