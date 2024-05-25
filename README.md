@@ -5,12 +5,6 @@
 
 
 
-# Contact  :
-
-<p>
- </br>
-
-
 if you want to reach out to me about anything, here are my contacts
 
 <a href="mailto:srishhtiijainn@gmail.com">
